@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
-public class MainAppFrame extends JFrame {
+public class MainAppFrame_2 extends JFrame {
 
 	private static final long serialVersionUID = 5168571986304078476L;
 	private JPanel contentPane;
@@ -42,7 +42,7 @@ public class MainAppFrame extends JFrame {
 	/**
 	 * Create the frame.
 	 */
-	public MainAppFrame() {
+	public MainAppFrame_2() {
 		initGUI();
 	}
 	private void initGUI() {
